@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Item One",
+        "description": "Description of item one",
+        "price": 10.99
+    },
+    {
+        "id": 2,
+        "name": "Item Two",
+        "description": "Description of item two",
+        "price": 12.99
+    },
+    {
+        "id": 3,
+        "name": "Item Three",
+        "description": "Description of item three",
+        "price": 9.99
+    },
+    {
+        "id": 4,
+        "name": "Item Four",
+        "description": "Description of item four",
+        "price": 15.49
+    },
+    {
+        "id": 5,
+        "name": "Item Five",
+        "description": "Description of item five",
+        "price": 11.89
+    },
+    {
+        "id": 6,
+        "name": "Item Six",
+        "description": "Description of item six",
+        "price": 13.79
+    }
+]
